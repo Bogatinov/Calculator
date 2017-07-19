@@ -1,0 +1,14 @@
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\xunit.abstractions.dll
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\xunit.assert.dll
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\xunit.core.dll
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\xunit.execution.desktop.dll
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\xunit.abstractions.xml
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\xunit.assert.xml
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\xunit.core.xml
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\xunit.execution.desktop.xml
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\haselt-pc15\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
